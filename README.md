@@ -69,7 +69,8 @@
 
 ------------------------------------------------------------
 :pencil:If you want to see some of my repositories makes by me, then stay on this profile.
-######:leaves:~*Be the best version of yourself*~:leaves:
+
+:leaves:*Be the best version of yourself*:leaves:
 ------------------------------------------------------------
 </body>
 </html>

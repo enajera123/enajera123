@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     :root{
         --main-color: #a781ff;
     }
@@ -41,7 +41,7 @@
         align-items:center;
     }
 
-</style>
+</style> -->
 <html>
 <body>
 <div id="header" align="center">
@@ -63,8 +63,7 @@
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <a class="personal-logo" href="https://enajera.netlify.app">
-        <img src="https://res.cloudinary.com/dhbio9ysd/image/upload/v1702922023/dfgsh7wronsysbtscltu.jpg" alt="personal page">
-        <p>Personal Page</p>
+        <img height="50" width="70" src="https://res.cloudinary.com/dhbio9ysd/image/upload/v1702922023/dfgsh7wronsysbtscltu.jpg" alt="personal page">
     </a>
 </div>
 

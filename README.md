@@ -48,9 +48,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Hi there my name is <span>Esteban Najera Morales</span> 👋:smiley:
+### Hi there my name is Esteban Najera Morales 👋 :smiley:
 
-**You can view more information about me here::point_down:</a>**
+**You can view more information about me here: :point_down:**
 
 <div class="badges">
     <a href="https://www.instagram.com/esteban_122020">
@@ -70,7 +70,7 @@
 ------------------------------------------------------------
 :pencil:If you want to see some of my repositories makes by me, then stay on this profile.
 
-######:leaves:*Be the best version of yourself*:leaves:
+:leaves:*Be the best version of yourself*:leaves:
 ------------------------------------------------------------
 </body>
 </html>

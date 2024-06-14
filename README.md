@@ -42,7 +42,7 @@
     }
 
 </style> -->
-https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark
+![enajera GitHub stats](https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark)
 <html>
 <body>
 <div id="header" align="center">

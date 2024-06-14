@@ -42,8 +42,6 @@
     }
 
 </style> -->
-![enajera GitHub stats](https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark)
-![enajera Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enajera&layout=compact&theme=dark)
 <html>
 <body>
 <div id="header" align="center">
@@ -67,7 +65,8 @@
         <img height="50" width="70" src="https://res.cloudinary.com/dhbio9ysd/image/upload/v1702922023/dfgsh7wronsysbtscltu.jpg" alt="personal page">
     </a>
 </div>
-
+![enajera GitHub stats](https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark)
+![enajera Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enajera&layout=compact&theme=dark)
 ------------------------------------------------------------
 :pencil:If you want to see some of my repositories makes by me, then stay on this profile.
 

@@ -42,6 +42,8 @@
     }
 
 </style> -->
+![enajera GitHub stats](https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark)
+![enajera Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enajera&layout=compact&theme=dark)
 <html>
 <body>
 <div id="header" align="center">
@@ -73,4 +75,3 @@
 ------------------------------------------------------------
 </body>
 </html>
-![enajera GitHub stats](https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark)

@@ -42,7 +42,6 @@
     }
 
 </style> -->
-![enajera GitHub stats](https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark)
 <html>
 <body>
 <div id="header" align="center">
@@ -65,6 +64,7 @@
     <a class="personal-logo" href="https://enajera.netlify.app">
         <img height="50" width="70" src="https://res.cloudinary.com/dhbio9ysd/image/upload/v1702922023/dfgsh7wronsysbtscltu.jpg" alt="personal page">
     </a>
+    ![enajera GitHub stats](https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark)
 </div>
 
 ------------------------------------------------------------

@@ -42,6 +42,7 @@
     }
 
 </style> -->
+https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark
 <html>
 <body>
 <div id="header" align="center">
@@ -49,7 +50,6 @@
 </div>
 
 ### Hi there my name is Esteban Najera Morales 👋 :smiley:
-https://github-readme-stats.vercel.app/api?username=enajera123&show_icons=true&theme=dark
 **You can view more information about me here: :point_down:**
 
 <div class="badges">
